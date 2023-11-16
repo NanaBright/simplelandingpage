@@ -1,3 +1,5 @@
+
+
 function App() {
 	return (
 		<div className="min-h-screen flex flex-col text-white">
@@ -45,12 +47,13 @@ function App() {
 			<footer className="container mx-auto p-6">
 				<div className="flex flex-col md:flex-row items-center justify-between">
 					<p className="mb-4 md:mb-0 md:text-xl slt">Slatetnd.com</p>
-
+				
 					<div className="flex -mx-6 slt">
 						<a href="#" className="mx-3 hover:opacity-80 duration-150">About Us</a> | 
 						<a href="#" className="mx-3 hover:opacity-80 duration-150">Privacy</a> | 
 						<a href="#" className="mx-3 hover:opacity-80 duration-150">Contact Us</a>
 					</div>
+
 				</div>
 			</footer>
 		</div>	
